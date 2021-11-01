@@ -10,6 +10,15 @@ Replaying the example: https://github.com/mjhea0/flaskr-tdd
 Link to heroku app: https://lab6-saminul.herokuapp.com/
 
 
+## Link to test cases
+
+
+https://github.com/ECE444-2021Fall/project1-education-pathways-group-9-erlenmeyer/blob/Lab6-Saminul/carbon_fe/src/components/Search/Search.test.js
+
+
+https://github.com/ECE444-2021Fall/project1-education-pathways-group-9-erlenmeyer/blob/Lab6-Saminul/carbon_fe/src/App.test.js#L21-L31
+
+
 ## Pros and Cons of TDD
 
 
